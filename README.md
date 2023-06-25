@@ -1,6 +1,5 @@
 Hola! 
-- 🌱 From the very first day I got exposure to web applications, 
+- 🌱 From the very first day I visited a website, 
 I always wanted to know how things work from the other side of it. 
-Currently, I'm an aspiring full stack developer.
 Focusing on => { Java,Spring,ReactJS }                
 
